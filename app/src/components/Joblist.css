@@ -1,0 +1,36 @@
+.Joblist_body{
+}
+
+.Joblist_header{
+    min-height: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(42px + 2vmin);
+    color: white;
+    
+}
+
+.Joblist_seachbar{
+    align-items: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.Joblist_select{
+    align-items: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    
+}
+.option {
+
+}
+
+  
+.Joblist_div{
+
+}
